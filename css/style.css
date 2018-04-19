@@ -9528,6 +9528,11 @@ body.x-navbar-fixed-top-active .x-navbar-wrap {
   font-size: 18px;
 }
 
+#lineage h4, #poetry h4, #mandatedprograms h4 {
+  font-family: "Berkshire Swash", sans-serif;
+  font-size: 25px;
+}
+
 /*
 #section-1, #section-2, #section-3, #section-4, #section-5, #section-6, #section-7 {
   background-color: #862d86;
