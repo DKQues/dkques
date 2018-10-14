@@ -1389,7 +1389,7 @@ table tbody+tbody {
 }
 
 .x-navbar-fixed-left .x-navbar-inner>.x-container.width,.x-navbar-fixed-right .x-navbar-inner>.x-container.width {
-  width:100%;
+  width:80%;
 }
 
 .x-navbar-fixed-left .x-brand,.x-navbar-fixed-right .x-brand {
@@ -1908,7 +1908,7 @@ table tbody+tbody {
 
 .x-navbar-fixed-left-active .desktop .x-nav .x-megamenu>.sub-menu,.x-navbar-fixed-right-active .desktop .x-nav .x-megamenu>.sub-menu {
   padding:0;
-  width:400px;
+  width:600px;
 }
 
 .x-breadcrumb-wrap {
