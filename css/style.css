@@ -1389,7 +1389,7 @@ table tbody+tbody {
 }
 
 .x-navbar-fixed-left .x-navbar-inner>.x-container.width,.x-navbar-fixed-right .x-navbar-inner>.x-container.width {
-  width:80%;
+  width:100%;
 }
 
 .x-navbar-fixed-left .x-brand,.x-navbar-fixed-right .x-brand {
@@ -3138,7 +3138,7 @@ table tbody+tbody {
 }
 
 .x-container.width {
-  width:88%;
+  width:60%;
 }
 
 .x-gap {
