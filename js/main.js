@@ -231,6 +231,14 @@ function showverses11(){
   $("#verses11").slideToggle();
 }
 
+function showverses12(){
+  $("#verses12").slideToggle();
+}
+
+function showverses13(){
+  $("#verses13").slideToggle();
+}
+
 function showprogram1(){
   $("#program1").slideToggle();
 }
