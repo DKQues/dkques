@@ -1908,7 +1908,7 @@ table tbody+tbody {
 
 .x-navbar-fixed-left-active .desktop .x-nav .x-megamenu>.sub-menu,.x-navbar-fixed-right-active .desktop .x-nav .x-megamenu>.sub-menu {
   padding:0;
-  width:600px;
+  width:400px;
 }
 
 .x-breadcrumb-wrap {
