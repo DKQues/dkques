@@ -12,7 +12,7 @@ function initMap() {
 }
 
 $(document).ready(function(){
-  $("#names1,#names2,#names3,#names4,#names5,#names6,#names7,#names8,#names9,#names10,#names11,#names12,#names13,#names14,#names15,#names16,#names17,#names18,#names19,#names20,#names21,#names22,#names23,#names24,#names25,#names26,#names27,#names28,#names29,#names30,#verses1,#verses2,#verses3,#verses4,#verses5,#verses6,#verses7,#verses8,#verses9,#verses10,#verses11,#verses12,#verses13,#program1,#program2,#program3,#program4,#program5,#program6,#program7,#program8,#program9,#program10").hide();
+  $("#names1,#names2,#names3,#names4,#names5,#names6,#names7,#names8,#names9,#names10,#names11,#names12,#names13,#names14,#names15,#names16,#names17,#names18,#names19,#names20,#names21,#names22,#names23,#names24,#names25,#names26,#names27,#names28,#names29,#names30,#verses1,#verses2,#verses3,#verses4,#verses5,#verses6,#verses7,#verses8,#verses9,#verses10,#verses11,#program1,#program2,#program3,#program4,#program5,#program6,#program7,#program8,#program9,#program10").hide();
     $("#line1").click(show1);
     $("#line2").click(show2);
     $("#line3").click(show3);
@@ -54,8 +54,6 @@ $(document).ready(function(){
     $("#poem9").click(showverses9);
     $("#poem10").click(showverses10);
     $("#poem11").click(showverses11);
-    $("#poem12").click(showverses12);
-    $("#poem13").click(showverses13);
     $("#mandated1").click(showprogram1);
     $("#mandated2").click(showprogram2);
     $("#mandated3").click(showprogram3);
