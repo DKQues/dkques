@@ -1186,14 +1186,10 @@ table tbody+tbody {
   position:relative;
   overflow:visible;
   z-index:1030;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .x-navbar .x-container {
   position:relative;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .x-nav-wrap.desktop {
