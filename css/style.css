@@ -1194,6 +1194,8 @@ table tbody+tbody {
 
 .x-nav-wrap.desktop {
   display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .x-nav-wrap.mobile {
