@@ -47,6 +47,7 @@ $(document).ready(function(){
     $("#line32").click(show32);
     $("#line33").click(show33);
     $("#line34").click(show34);
+    $("#line35").click(show35);
     $("#poem1").click(showverses1);
     $("#poem2").click(showverses2);
     $("#poem3").click(showverses3);
