@@ -215,6 +215,9 @@ function show35(){
 function show36(){
   $("#names36").slideToggle();
 }
+function show37(){
+  $("#names37").slideToggle();
+}
 function showverses1(){
   $("#verses1").slideToggle();
 }
